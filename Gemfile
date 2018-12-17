@@ -28,6 +28,9 @@ gem 'jbuilder', '~> 2.5'
 # Webpacker
 gem 'webpacker', '~> 3.5'
 
+# Socket 
+gem 'socket.io-rails'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
